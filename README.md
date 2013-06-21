@@ -1,4 +1,4 @@
 nodes
 =====
 
-learn nodes for fun
+learn nodes for fun and profits
